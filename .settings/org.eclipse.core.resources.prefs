@@ -1,0 +1,10 @@
+eclipse.preferences.version=1
+encoding//Apps/MapApp/MapApp.py=utf-8
+encoding//Apps/PaintingApp/PaintingApp.py=utf-8
+encoding//GestureAgentsTUIO2/Gestures2D/RecognizerCursorOnPad.py=cp1252
+encoding//GestureAgentsTUIO2/Gestures2D/RecognizerPadSwipe.py=cp1252
+encoding//GestureAgentsTUIO2/Gestures2D/RecognizerPadTap.py=cp1252
+encoding//GestureAgentsTUIO2/Gestures2D/RecognizerSwipe.py=cp1252
+encoding//GestureAgentsTUIO2/Gestures2D/RecognizerTap.py=utf-8
+encoding//GestureAgentsTUIO2/Gestures2D/RecognizerWave.py=utf-8
+encoding//GestureAgentsTUIO2/Gestures2D/shadow.py=utf-8
